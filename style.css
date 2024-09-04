@@ -5,7 +5,7 @@
   }
   
   body {
-    background-color: purple;
+    background-color: black;
     color: brown;
     font-size: 1rem;
     display: flex;
@@ -77,7 +77,7 @@
     color: #f6f6f6;
   }
   #convert-btn {
-    background: linear-gradient(to bottom, pink, lightpink);
+    background: linear-gradient(to bottom, black, red);
     border: none;
     outline: none;
     border-radius: 5px;
@@ -91,6 +91,6 @@
     transition: all 0.3s ease-in;
   }
   #convert-btn:hover {
-    background: linear-gradient(to bottom, grey
-    , grey);
+    background: linear-gradient(to bottom, red
+    , black);
   }
